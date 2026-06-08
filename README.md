@@ -1,4 +1,3 @@
-```markdown
 # fastVisor – Minimal QML Image Viewer for Dolphin
 
 **fastVisor** is a lightweight, frameless image viewer designed for **KDE Dolphin’s custom actions**. It shows an image full-window with no titlebar, no toolbars, and **zero margins** – the viewport exactly matches the image’s aspect ratio. Rounded corners and subtle shadows give it a modern, floating look.
@@ -121,4 +120,4 @@ Pull requests and issues are welcome! Keep it minimal and focused on the **fast,
 ## 🙏 Acknowledgements
 
 Built with QtQuick and a little bit of lazy loading magic. Inspired by the need to preview images without marginal chrome.
-```
+
