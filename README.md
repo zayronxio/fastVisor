@@ -93,24 +93,6 @@ Now right‑click any image in Dolphin → **Actions** → **FastVisor – quick
 
 ---
 
-## ❓ Troubleshooting
-
-| Problem                          | Solution                                                                                  |
-|----------------------------------|-------------------------------------------------------------------------------------------|
-| `qml: command not found`         | Install Qt QML runtime (`qt5-declarative` / `qt6-declarative`)                            |
-| `module "Qt.labs.folderlistmodel" is not installed` | Install `qml-module-qt-labs-folderlistmodel` (Ubuntu) or `qt5-labs-folderlistmodel` (Arch) |
-| Window does not resize on first image | Check that the image file exists and has valid dimensions. The thumbnail must load first. |
-| No navigation between images     | Ensure the folder contains other supported image files (see `nameFilters`).               |
-| Window stays open after losing focus | You have pin mode enabled – click the 📌 button or press `P` to disable.                  |
-
----
-
-## 📝 License
-
-**MIT** – free to use, modify, and distribute.
-
----
-
 ## 🤝 Contributing
 
 Pull requests and issues are welcome! Keep it minimal and focused on the **fast, aesthetic preview** experience.
