@@ -5,7 +5,7 @@
 
 Perfect for quickly previewing images without leaving Dolphin or opening a heavy application.
 
-![Screenshot placeholder](screenshot.png)
+![Screenshot placeholder](https://raw.githubusercontent.com/zayronxio/fastVisor/refs/heads/main/preview/screnshot.webp)
 
 ---
 
